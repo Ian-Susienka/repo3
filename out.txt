@@ -1,0 +1,13 @@
+badidea2.txt
+filelist.txt
+goodIdea.txt
+goodidea2.txt
+out.txt
+readme.txt
+test.css
+test.htm
+test1.txt
+test2.txt
+test7.txt
+test9.txt
+test99.html
