@@ -8,3 +8,4 @@ test7.txt
 test9.txt
 test99.html
 badidea2.txt
+goodidea2.txt
