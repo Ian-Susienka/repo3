@@ -1,0 +1,10 @@
+goodidea.txt
+readme.txt
+test.css
+test.htm
+test1.txt
+test2.txt
+test7.txt
+test9.txt
+test99.html
+badidea2.txt
